@@ -16,7 +16,7 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/BarryHook1/Mini-Projeto-Mongo-.git
    ``` 
 2. Crie um ambiente virtual e ative-o:
    ### No Windows:
